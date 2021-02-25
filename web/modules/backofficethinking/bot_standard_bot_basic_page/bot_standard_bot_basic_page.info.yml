@@ -1,0 +1,13 @@
+name: 'Basic Page'
+description: 'BackOffice Thinking Standard Basic Page'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - entity_reference_revisions
+  - field
+  - node
+  - paragraphs
+  - rdf
+  - text
+version: 8.x-1.0
+package: 'BackOffice Thinking Standard'

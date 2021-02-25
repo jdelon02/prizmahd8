@@ -1,0 +1,20 @@
+bundle: bot_standard
+excluded:
+  - core.entity_form_display.elements.view_item.default
+  - core.entity_view_display.elements.view_item.default
+  - field.field.components.call_to_action.field_ancho
+  - field.field.elements.link_card_item.field_call_to_action
+  - field.field.elements.view_item.field_call_to_action
+  - field.storage.components.field_body
+  - field.storage.components.field_description
+  - field.storage.components.field_fp_demo
+  - field.storage.components.field_image
+  - field.storage.components.field_layout
+  - field.storage.components.field_link
+  - field.storage.components.field_media
+  - field.storage.components.field_media_caption
+  - field.storage.components.field_subheadline
+  - field.storage.elements.field_call_to_action
+  - image.style.fp_landscape_768x576
+  - taxonomy.vocabulary.layout_options
+required: true

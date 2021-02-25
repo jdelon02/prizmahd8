@@ -1,0 +1,10 @@
+name: Events
+description: 'BackOffice Thinking Standard Events'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - 'drupal:field'
+  - 'drupal:node'
+  - 'drupal:taxonomy'
+  - 'drupal:text'
+package: 'BackOffice Thinking Standard'

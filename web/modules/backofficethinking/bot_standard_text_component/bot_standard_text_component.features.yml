@@ -1,0 +1,6 @@
+bundle: bot_standard
+excluded:
+  - field.storage.components.field_layout_width_text
+  - field.storage.components.field_meta_t
+  - taxonomy.vocabulary.layout_width_text
+required: true

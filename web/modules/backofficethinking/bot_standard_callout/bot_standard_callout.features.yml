@@ -1,0 +1,11 @@
+bundle: bot_standard
+excluded:
+  - field.storage.components.field_fp_demo
+  - field.storage.components.field_layout
+  - field.storage.components.field_media
+  - field.storage.components.field_media_caption
+  - field.storage.components.field_subheadline
+  - image.style.fp_landscape_768x576
+  - taxonomy.vocabulary.layout_options
+  - views.view.components
+required: true

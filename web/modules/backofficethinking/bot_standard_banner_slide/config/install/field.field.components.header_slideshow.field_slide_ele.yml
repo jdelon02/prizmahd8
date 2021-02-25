@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.header_slideshow
+    - eck.eck_type.elements.banner_slide
+    - field.storage.components.field_slide_ele
+id: components.header_slideshow.field_slide_ele
+field_name: field_slide_ele
+entity_type: components
+bundle: header_slideshow
+label: 'Slide Element'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:elements'
+  handler_settings:
+    target_bundles:
+      banner_slide: banner_slide
+    sort:
+      field: _none
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.callout
+    - field.storage.components.field_ancho
+id: components.callout.field_ancho
+field_name: field_ancho
+entity_type: components
+bundle: callout
+label: 'Anchor ID'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

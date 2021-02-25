@@ -1,0 +1,16 @@
+name: 'Text Component'
+description: 'Text Component and Element'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - 'drupal:field'
+  - 'drupal:field_layout'
+  - 'drupal:layout_discovery'
+  - 'drupal:taxonomy'
+  - 'drupal:text'
+  - 'ds:ds'
+  - 'eck:eck'
+  - 'entity_class_formatter:entity_class_formatter'
+  - 'metatag:metatag'
+version: 8.x-1.0
+package: 'BackOffice Thinking Standard'

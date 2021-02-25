@@ -1,0 +1,23 @@
+bundle: bot_standard
+excluded:
+  - core.entity_form_display.elements.view_item.default
+  - core.entity_view_display.elements.view_item.default
+  - field.field.elements.view_item.field_call_to_action
+  - field.field.elements.view_item.field_headline_intro
+  - field.storage.components.field_slide_ele
+  - field.storage.elements.field_body
+  - field.storage.elements.field_call_to_action
+  - field.storage.elements.field_headline_intro
+  - field.storage.elements.field_media
+required:
+  - eck.eck_type.components.header_slideshow
+  - eck.eck_type.elements.banner_slide
+  - core.entity_form_display.components.header_slideshow.default
+  - core.entity_form_display.elements.banner_slide.default
+  - core.entity_view_display.components.header_slideshow.default
+  - core.entity_view_display.elements.banner_slide.default
+  - field.field.components.header_slideshow.field_slide_ele
+  - field.field.elements.banner_slide.field_body
+  - field.field.elements.banner_slide.field_call_to_action
+  - field.field.elements.banner_slide.field_headline_intro
+  - field.field.elements.banner_slide.field_media

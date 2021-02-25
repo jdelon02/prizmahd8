@@ -1,0 +1,6 @@
+bundle: bot_standard
+excluded:
+  - paragraphs.paragraphs_type.from_library
+required:
+  - core.base_field_override.node.page.promote
+  - rdf.mapping.node.page

@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.components
+type: call_to_action
+name: 'Call to Action'
+description: ''

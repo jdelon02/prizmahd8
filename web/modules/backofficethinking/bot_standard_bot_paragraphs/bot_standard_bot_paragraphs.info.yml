@@ -1,0 +1,24 @@
+name: Paragraphs
+description: 'All Paragraph Types'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - 'drupal:field'
+  - 'drupal:field_layout'
+  - 'drupal:layout_discovery'
+  - 'drupal:media'
+  - 'drupal:media_library'
+  - 'drupal:node'
+  - 'drupal:options'
+  - 'drupal:text'
+  - 'ds:ds'
+  - 'entity_class_formatter:entity_class_formatter'
+  - 'entity_reference_display:entity_reference_display'
+  - 'entity_reference_revisions:entity_reference_revisions'
+  - 'field_group:field_group'
+  - 'paragraphs:paragraphs'
+  - 'paragraphs:paragraphs_library'
+  - 'paragraphs_viewmode:paragraphs_viewmode'
+  - 'slick_entityreference:slick_entityreference'
+version: 8.x-1.0
+package: 'BackOffice Thinking Standard'

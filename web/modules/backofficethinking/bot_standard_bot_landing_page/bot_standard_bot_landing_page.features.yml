@@ -1,0 +1,5 @@
+bundle: bot_standard
+excluded:
+  - eck.eck_type.components.view_block
+required:
+  - core.base_field_override.node.landing.promote

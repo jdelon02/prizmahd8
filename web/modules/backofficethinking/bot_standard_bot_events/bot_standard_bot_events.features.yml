@@ -1,0 +1,3 @@
+bundle: bot_standard
+required:
+  - core.base_field_override.node.event.title

@@ -1,0 +1,53 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.header_slideshow
+    - field.field.components.header_slideshow.field_slide_ele
+  module:
+    - ds
+    - slick_entityreference
+id: components.header_slideshow.default
+targetEntityType: components
+bundle: header_slideshow
+mode: default
+content:
+  field_slide_ele:
+    weight: 0
+    label: hidden
+    settings:
+      optionset: banner_slider
+      skin: ''
+      view_mode: default
+      cache: 0
+      current_view_mode: default
+      override: false
+      overridables:
+        arrows: '0'
+        autoplay: '0'
+        dots: '0'
+        draggable: '0'
+        infinite: '0'
+        mouseWheel: '0'
+        randomize: '0'
+        variableWidth: '0'
+      skin_arrows: ''
+      skin_dots: ''
+      fx: ''
+      style: ''
+    third_party_settings:
+      ds:
+        ds_limit: ''
+        ft:
+          id: default
+          settings:
+            lb: ''
+            lb-col: false
+            classes: {  }
+    type: slick_entityreference_vanilla
+    region: content
+hidden:
+  changed: true
+  created: true
+  title: true
+  uid: true

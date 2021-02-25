@@ -1,0 +1,46 @@
+bundle: bot_standard
+excluded:
+  - field.field.media.image.field_media_image
+  - field.field.components.callout.field_ancho
+  - field.field.components.callout.field_body
+  - field.field.components.callout.field_fp_demo
+  - field.field.components.callout.field_headline
+  - field.field.components.callout.field_layout
+  - field.field.components.callout.field_layout_width
+  - field.field.components.callout.field_link
+  - field.field.components.callout.field_media
+  - field.field.components.callout.field_media_caption
+  - field.field.components.callout.field_subheadline
+  - field.field.components.call_to_action.field_ancho
+  - field.field.components.call_to_action.field_link
+  - core.entity_form_display.components.call_to_action.default
+  - core.entity_view_display.components.callout.default
+  - core.entity_view_display.components.call_to_action.default
+required:
+  - focal_point.settings
+  - media.settings
+  - media_library.settings
+  - image.style.fp_square_256
+  - image.style.link_card_image
+  - image.style.listing_image
+  - core.entity_form_display.media.audio.default
+  - core.entity_form_display.media.audio.media_library
+  - core.entity_form_display.media.document.default
+  - core.entity_form_display.media.document.media_library
+  - core.entity_form_display.media.remote_video.default
+  - core.entity_form_display.media.remote_video.media_library
+  - core.entity_form_display.media.video.default
+  - core.entity_form_display.media.video.media_library
+  - core.entity_view_display.media.audio.default
+  - core.entity_view_display.media.audio.media_library
+  - core.entity_view_display.media.document.default
+  - core.entity_view_display.media.document.media_library
+  - core.entity_view_display.media.remote_video.default
+  - core.entity_view_display.media.remote_video.media_library
+  - core.entity_view_display.media.video.default
+  - core.entity_view_display.media.video.media_library
+  - media.type.audio
+  - media.type.document
+  - media.type.image
+  - media.type.remote_video
+  - media.type.video

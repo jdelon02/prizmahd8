@@ -1,0 +1,4 @@
+bundle: bot_standard
+required:
+  - rdf.mapping.node.article
+  - rdf.mapping.taxonomy_term.tags

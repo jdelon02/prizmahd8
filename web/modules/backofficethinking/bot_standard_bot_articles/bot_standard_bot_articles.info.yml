@@ -1,0 +1,11 @@
+name: Article
+description: 'BackOffice Thinking Standard Articles'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - field
+  - node
+  - rdf
+  - taxonomy
+  - text
+package: 'BackOffice Thinking Standard'

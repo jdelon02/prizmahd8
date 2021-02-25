@@ -1,0 +1,3 @@
+bundle: bot_standard
+required:
+  - taxonomy.settings

@@ -1,0 +1,25 @@
+bundle: bot_standard
+excluded:
+  - core.entity_form_display.paragraph.slideshow.default
+  - core.entity_form_display.elements.testimonial.default
+  - core.entity_form_display.node.landing.default
+  - core.entity_view_display.paragraph.slideshow.default
+  - core.entity_view_display.elements.testimonial.default
+  - core.entity_view_display.node.landing.banner_title
+  - core.entity_view_display.node.landing.basic_title
+  - core.entity_view_display.node.landing.default
+  - core.entity_view_display.node.landing.teaser
+  - core.entity_view_display.node.landing.view_mode_selector
+  - field.field.paragraph.slideshow.field_layout
+  - field.field.paragraph.slideshow.field_slides
+  - field.field.paragraph.wysiwyg_layouts.field_layout
+  - field.field.elements.testimonial.field_description
+  - field.storage.node.field_banner_slideshow
+  - field.storage.paragraph.field_layout
+  - field.storage.paragraph.field_slides
+  - field.storage.elements.field_description
+  - field.storage.elements.field_imagee
+  - paragraphs.paragraphs_type.slide
+  - paragraphs.paragraphs_type.slideshow
+  - slick.optionset.slideshow
+required: true

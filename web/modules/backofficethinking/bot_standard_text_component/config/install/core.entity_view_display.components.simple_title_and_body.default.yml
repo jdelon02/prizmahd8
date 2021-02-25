@@ -1,0 +1,85 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.simple_title_and_body
+    - field.field.components.simple_title_and_body.field_ancho
+    - field.field.components.simple_title_and_body.field_body
+    - field.field.components.simple_title_and_body.field_layout_width_text
+    - field.field.components.simple_title_and_body.field_meta_t
+  module:
+    - ds
+    - entity_class_formatter
+    - metatag
+    - text
+third_party_settings:
+  ds:
+    layout:
+      id: bs_1col
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            clearfix: clearfix
+            row: row
+          add_layout_class: 1
+          attributes: 'id|[components:field_ancho:value]'
+        regions:
+          main:
+            wrapper: div
+            classes:
+              clearfix: clearfix
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+    regions:
+      main:
+        - field_body
+        - field_layout_width_text
+        - field_meta_t
+id: components.simple_title_and_body.default
+targetEntityType: components
+bundle: simple_title_and_body
+mode: default
+content:
+  field_body:
+    weight: 0
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: main
+  field_layout_width_text:
+    weight: 1
+    label: hidden
+    settings:
+      prefix: width-
+      suffix: ''
+      attr: ''
+    third_party_settings:
+      ds:
+        ft:
+          id: default
+          settings:
+            lb: ''
+            lb-col: false
+            classes: {  }
+    type: entity_class_formatter
+    region: main
+  field_meta_t:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: metatag_empty_formatter
+    region: main
+hidden:
+  changed: true
+  created: true
+  field_ancho: true
+  title: true
+  uid: true

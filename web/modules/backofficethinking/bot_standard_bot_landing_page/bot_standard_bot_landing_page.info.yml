@@ -1,0 +1,8 @@
+name: 'Landing Page'
+description: 'BackOffice Thinking Standard Landing Pages'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - eck
+  - node
+package: 'BackOffice Thinking Standard'

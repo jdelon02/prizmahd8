@@ -1,0 +1,8 @@
+name: Taxonomies
+description: 'All Taxonomies for Standard Install'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - 'drupal:taxonomy'
+version: 8.x-1.0
+package: 'BackOffice Thinking Standard'

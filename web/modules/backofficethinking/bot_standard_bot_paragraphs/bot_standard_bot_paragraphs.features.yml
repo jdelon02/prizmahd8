@@ -1,0 +1,15 @@
+bundle: bot_standard
+excluded:
+  - field.storage.node.field_paragraphs
+  - field.storage.paragraph.field_body
+  - field.storage.paragraph.field_image
+  - field.storage.paragraph.field_layout
+  - field.storage.paragraph.field_media
+  - field.storage.paragraph.field_media_view_mode
+  - field.storage.paragraph.field_slides
+  - field.storage.paragraph.field_width
+  - core.entity_view_mode.paragraph.image_25_left
+  - core.entity_view_mode.paragraph.image_25_right
+  - core.entity_view_mode.paragraph.image_50_left
+  - core.entity_view_mode.paragraph.image_50_right
+required: true
