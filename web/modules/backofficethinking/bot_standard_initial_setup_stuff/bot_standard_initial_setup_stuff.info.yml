@@ -3,6 +3,7 @@ description: 'Enabling Modules, ECK setup, etc...'
 type: module
 core_version_requirement: '^8.9 || ^9'
 dependencies:
+  - 'adminimal_admin_toolbar:adminimal_admin_toolbar'
   - 'button_link:button_link'
   - 'drupal:ckeditor'
   - 'drupal:editor'
@@ -19,6 +20,7 @@ dependencies:
   - 'ds:ds_extras'
   - 'eck:eck'
   - 'entity_class_formatter:entity_class_formatter'
+  - 'module_filter:module_filter'
   - 'token_filter:token_filter'
   - 'viewsreference:viewsreference'
 version: 8.x-1.0
