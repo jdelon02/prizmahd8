@@ -1,26 +1,2 @@
 bundle: bot_standard
-excluded:
-  - eck.eck_type.elements.slide
-  - eck.eck_type.elements.testimonial
-  - eck.eck_type.elements.view_item
-  - eck.eck_type.elements.link_card_item
-  - core.entity_form_display.components.call_to_action.default
-  - core.entity_form_display.elements.slide.default
-  - core.entity_form_display.elements.testimonial.default
-  - core.entity_form_display.elements.view_item.default
-  - core.entity_view_display.components.call_to_action.default
-  - core.entity_view_display.elements.slide.default
-  - core.entity_view_display.elements.testimonial.default
-  - core.entity_view_display.elements.view_item.default
-  - field.field.components.call_to_action.field_ancho
-  - field.field.elements.slide.field_description
-  - field.field.elements.slide.field_imagee
-  - field.field.elements.testimonial.field_description
-  - field.field.elements.testimonial.field_testimonial_author
-  - field.field.elements.view_item.field_call_to_action
-  - field.field.elements.view_item.field_displayed_view
-  - field.field.elements.view_item.field_headline_intro
-  - field.field.elements.view_item.field_layout_width
-  - views.view.components
-  - views.view.elements
 required: true
