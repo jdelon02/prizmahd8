@@ -1,0 +1,23 @@
+uuid: b956653e-91c9-4806-9980-980bd64bff2d
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.elements.banner_slide
+    - field.storage.elements.field_body
+  module:
+    - text
+_core:
+  default_config_hash: J4B2Cl0qstI9z5TYIGP43kQkGvUhbO60e61j7cfnL9k
+id: elements.banner_slide.field_body
+field_name: field_body
+entity_type: elements
+bundle: banner_slide
+label: 'Slide Text'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

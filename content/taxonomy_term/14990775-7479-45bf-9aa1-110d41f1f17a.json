@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/botdemo.test\/abdo-ex-olim-quidne-wisi.?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+        },
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "http:\/\/botdemo.test\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "href": "http:\/\/botdemo.test\/esca-quidne-quis-ratis-roto-sed.?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "14990775-7479-45bf-9aa1-110d41f1f17a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx",
+            "lang": "zxx"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-04-09T08:52:27+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "acdfcba1-884c-4b96-8000-232f9d10fe74"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/esca-quidne-quis-ratis-roto-sed.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d8ed08d3-5f13-4e5e-98a8-c0564837882c"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Adipiscing comis duis iriure iustum occuro odio populus quibus. Capto modo os. Damnum fere humo oppeto populus praesent torqueo uxor. Aptent exerci haero occuro quibus utrum. Dolore gravis iriure ludus quidne suscipere.\n\nDolor eros gravis patria pecus venio zelus. Euismod exerci premo torqueo utrum verto. Ea occuro quis roto te tego vindico vulpes. Aliquam at gilvus ibidem oppeto pertineo utrum ymo. Conventio nunc praemitto sed turpis. Dolor lenis luptatum quibus quis torqueo ulciscor. Comis haero persto singularis. Abbas accumsan consequat eros obruo odio patria proprius sudo turpis.\n\nAugue cui erat ex haero magna probo sino torqueo vero. Diam haero usitas. Abdo gemino hos vulputate. Aliquip neo nostrud populus saluto tum typicus utrum validus. Caecus dignissim eum nunc paulatim quis scisco. Abigo decet huic iriure persto populus quae tum utinam vereor.\n\nCogo diam genitus huic imputo lucidus tamen velit. Exputo ideo velit. Elit fere hos melior patria premo torqueo wisi. Dolor ea sino vero virtus. Enim exerci haero melior nibh nimis populus tamen ut venio. Abluo aliquam augue eum plaga qui roto secundum vereor. Enim feugiat iaceo importunus imputo os quia.\n\nAugue dolor importunus odio olim quadrum singularis tum. Laoreet lobortis nostrud sagaciter saluto suscipit utinam zelus. Acsi blandit jus. Commodo dolore esca fere immitto macto sudo ut uxor veniam. Conventio gravis immitto mos.\n\nDolus ea ibidem laoreet molior pneum refoveo tum velit. Aliquam aptent eum jumentum odio vel voco. Ea eros ulciscor. Conventio cui diam dignissim dolor exputo ille magna ullamcorper utrum.\n\nBrevitas cui diam facilisis ideo typicus. Illum inhibeo neque oppeto plaga ut verto. Antehabeo consectetuer dignissim dolus esca inhibeo neque obruo pertineo populus. Camur eum iaceo ille incassum ludus mos natu oppeto quia.\n\nLenis populus ymo. Eu hos immitto incassum lenis neo pala usitas wisi. Blandit iustum lobortis paratus pecus ullamcorper wisi. Appellatio distineo dolore esse laoreet nunc olim. Aptent modo ullamcorper. Conventio molior mos occuro plaga si tego. Causa haero imputo quia sed singularis usitas vereor ymo. Causa mauris quae quidem singularis veniam verto vulputate.\n\nCogo praesent vel. Conventio laoreet neo uxor. Bene euismod exerci hendrerit ibidem in nostrud vel. Augue iriure tation vicis. Aliquam hos os sudo ullamcorper validus. Augue ex letalis scisco velit wisi. Brevitas exerci incassum nimis paulatim te. Imputo incassum neque suscipit valetudo verto. Cui nimis praesent tation.\n\nAbdo dolus gemino melior natu singularis vulpes. At capto jus. Adipiscing consequat dolus gemino nunc ratis suscipit tamen. Accumsan melior minim pala quis voco. Appellatio dolus eros esca ex exputo gravis nutus pertineo roto. Adipiscing cui et ibidem nimis paulatim pecus refoveo sit venio. Hos ludus macto os plaga saepius. Autem causa natu. Acsi gravis huic.\n\nComis eu nimis torqueo usitas ut. Nutus pecus proprius secundum. Hendrerit inhibeo modo tamen tation. Qui vel venio. Abluo ibidem lenis meus os saepius tation vulpes. Brevitas causa eum nunc quae refero suscipit volutpat ymo. Antehabeo augue commodo letalis metuo modo velit vero volutpat.\n\nAptent brevitas dolore esse iriure metuo patria. Ad adipiscing decet immitto venio vulpes. Causa dolus ex genitus haero iustum magna nisl veniam voco. Acsi aptent nutus os. Abigo caecus esca hos huic interdico patria pneum proprius vereor. Defui eligo plaga. Appellatio consectetuer modo molior natu odio pecus proprius wisi.\n\n"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "canonical_url": "http:\/\/botdemo.test\/abdo-ex-olim-quidne-wisi.",
+                "title": "| BackOffice Theme"
+            }
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/abdo-ex-olim-quidne-wisi.",
+            "pid": 27,
+            "langcode": "zxx",
+            "lang": "zxx"
+        }
+    ]
+}

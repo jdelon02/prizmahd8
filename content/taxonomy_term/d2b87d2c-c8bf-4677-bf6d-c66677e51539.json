@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/botdemo.test\/at-dignissim-duis-eros-facilisis-odio-os-pertineo-vindico.?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+        },
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "http:\/\/botdemo.test\/user\/0?_format=hal_json"
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "href": "http:\/\/botdemo.test\/dolor-hos-jugis-tum.?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "d2b87d2c-c8bf-4677-bf6d-c66677e51539"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-01-06T21:23:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e10b71da-4038-4ac7-9de6-526dd6b10e7a"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/dolor-hos-jugis-tum.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6e0d29d1-624b-4e40-ad19-728d8462e915"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Metuo paulatim quadrum quia. Appellatio dignissim populus venio. Abluo aliquam dolor illum iusto mos roto. Ludus luptatum pagus populus quae secundum sit. Camur comis facilisis immitto odio paulatim tincidunt. Abigo ad decet defui eum lenis praemitto quadrum vereor. Augue capto eligo enim imputo letalis macto probo qui.\n\nDecet euismod inhibeo iriure melior pecus plaga quidne. Incassum jugis macto neo quidem si suscipit tation. Abluo caecus distineo jugis rusticus si vel vicis. Adipiscing eu imputo natu quidne. Abico accumsan eum ex magna patria suscipere. Comis enim neo utrum. Iriure olim sagaciter. Conventio eum odio praesent suscipit usitas. Gemino iaceo neque paratus roto.\n\nFeugiat interdico magna mos pagus praemitto usitas. Aptent cogo consequat dolus humo torqueo ullamcorper velit voco ymo. Genitus hendrerit qui tincidunt vindico vulpes. Abbas eros quadrum rusticus.\n\nConsequat defui elit enim gemino oppeto probo sino validus. Exerci haero huic laoreet luptatum nulla occuro torqueo vicis zelus. Ad importunus letalis nimis zelus. Abico sit tincidunt. Abbas aliquam at bene capto loquor magna saluto utrum.\n\nErat iusto meus pneum veniam. Antehabeo conventio cui molior mos occuro praemitto quae uxor. Eum nobis te. Abdo aliquip appellatio conventio in obruo pneum saluto sudo verto. Letalis nobis turpis venio volutpat. Eligo luptatum roto ulciscor. Quidem suscipit vero. Immitto lobortis sagaciter. Appellatio cogo facilisi in modo probo suscipere valde. Jugis jus natu quadrum. Imputo jumentum virtus. Consectetuer cui melior os quibus roto.\n\nHuic humo jugis. Consequat huic occuro qui quis ratis sudo turpis voco. Adipiscing genitus pala saepius tincidunt. Abdo autem luctus. Aptent ideo pagus proprius quidne ratis refoveo tamen virtus. Quae quidne si. Abdo conventio lobortis oppeto quadrum sino ullamcorper. Aliquam elit humo nisl nunc oppeto. Conventio decet exputo nunc quae tum vero volutpat.\n\nAbbas camur comis decet defui diam esse inhibeo proprius tego. Esca magna melior modo praemitto sino. Accumsan enim gemino quadrum ymo. Duis euismod eum illum. Cogo paulatim valetudo. Autem cui feugiat inhibeo nulla quidne saluto turpis volutpat.\n\nAdipiscing feugiat hendrerit jus nulla. Eum exputo iaceo vulputate. Molior neo paulatim ratis tum vero wisi. Iaceo in melior uxor vicis. Abluo dolus gemino genitus lobortis odio praemitto typicus. Lenis paratus ulciscor vel. Exerci nibh saepius. Eligo exerci suscipit. Abico commoveo humo lobortis sino sudo. Aliquam eligo haero ibidem luptatum metuo nutus quadrum singularis tincidunt.\n\nOdio os quidne. Aptent gemino voco. Antehabeo esse obruo oppeto quae refero. Aliquip bene letalis velit. Ille odio praemitto refoveo sagaciter sit suscipit torqueo validus. Cogo erat ideo lobortis melior nobis populus refoveo wisi.\n\nAccumsan exputo facilisis gemino premo ratis singularis. Abbas capto commodo damnum defui hos odio. Abigo abluo aliquam elit pagus pala si singularis. Abbas exputo in patria rusticus. Cogo dolor enim macto praesent roto tum wisi. Decet in secundum similis sit veniam volutpat vulputate. Dolore erat importunus luptatum magna quis saepius tego vel.\n\nDecet eu mos proprius quadrum suscipit tincidunt. Abigo defui euismod imputo natu paratus ratis turpis. Cui ideo saluto sino valde. Abdo exputo iaceo in voco. Cogo cui damnum feugiat imputo iusto iustum. Gemino praesent qui. Brevitas camur iusto meus olim. Consequat imputo jugis nibh nunc refoveo scisco tincidunt.\n\nAptent commodo diam humo immitto nunc saluto vulpes zelus. Abdo bene cogo nisl. Aliquam esse natu nostrud nutus scisco sino. Aliquam aliquip causa iaceo molior roto turpis vulpes. Accumsan gemino ibidem meus nimis te torqueo turpis uxor wisi. Consequat gemino hos pecus pertineo qui roto vulputate.\n\n"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "canonical_url": "http:\/\/botdemo.test\/at-dignissim-duis-eros-facilisis-odio-os-pertineo-vindico.",
+                "title": "| BackOffice Theme"
+            }
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/at-dignissim-duis-eros-facilisis-odio-os-pertineo-vindico.",
+            "pid": 23,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}

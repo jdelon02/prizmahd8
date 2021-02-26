@@ -1,0 +1,10 @@
+uuid: c6112582-1c24-4999-ae01-f209541a83b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8OsbUcoPulrXCy40Cy3rGgSank0VcCZwEu1SCiq1WMo
+name: 'Layout Options'
+vid: layout_options
+description: ''
+weight: 0

@@ -1,0 +1,12 @@
+uuid: 45ac5c1b-0bff-4b7e-8486-5f771079dacf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xt9aDYNiQUpF0Z5OFxuR1MoISsM09I-BU6jRWbYHQO0
+id: wysiwyg_layouts
+label: 'Text with Image Float'
+icon_uuid: null
+icon_default: null
+description: 'Paragraphs that allow for Image and Text to be displayed together.'
+behavior_plugins: {  }

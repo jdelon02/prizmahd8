@@ -1,0 +1,193 @@
+blocks: {  }
+taxonomies:
+  event_type:
+    -
+      vid: event_type
+      tid: '11'
+      langcode: en
+      name: 'In Person'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 1d0c0ff8-0e57-4cac-82a1-8bf442a00c71
+    -
+      vid: event_type
+      tid: '20'
+      langcode: en
+      name: Webinar
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b5596615-a1b4-4e7a-87ec-919948893552
+  layout_options:
+    -
+      vid: layout_options
+      tid: '6'
+      langcode: en
+      name: Centered
+      description__value: null
+      description__format: null
+      weight: '2'
+      parent: '0'
+      uuid: 3e5f4c74-41f8-40ea-b315-514314a85752
+    -
+      vid: layout_options
+      tid: '5'
+      langcode: en
+      name: 'Image Left'
+      description__value: null
+      description__format: null
+      weight: '1'
+      parent: '0'
+      uuid: 93421833-13e6-48a0-be10-94fd0b4439e0
+    -
+      vid: layout_options
+      tid: '4'
+      langcode: en
+      name: 'Image Right'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 06e48a5c-706f-4add-af4a-915a8edff194
+  layout_width:
+    -
+      vid: layout_width
+      tid: '9'
+      langcode: en
+      name: Full
+      description__value: null
+      description__format: null
+      weight: '2'
+      parent: '0'
+      uuid: 9d0df38b-c03e-428b-a06e-3b6db20015fd
+    -
+      vid: layout_width
+      tid: '7'
+      langcode: en
+      name: Narrow
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: cb42e7df-d81e-458a-b7fe-71833bb65ed3
+    -
+      vid: layout_width
+      tid: '8'
+      langcode: en
+      name: Wide
+      description__value: null
+      description__format: null
+      weight: '1'
+      parent: '0'
+      uuid: cbe76c71-4017-4c48-a59c-5ef7013e3619
+  layout_width_text:
+    -
+      vid: layout_width_text
+      tid: '10'
+      langcode: en
+      name: Narrow
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: feb12a9d-427b-45f4-ae7b-728371895cf6
+    -
+      vid: layout_width_text
+      tid: '12'
+      langcode: en
+      name: Wide
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 2a53eddb-02a7-4ffe-ad80-cb3808acc54e
+  news_type:
+    -
+      vid: news_type
+      tid: '19'
+      langcode: en
+      name: General
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 512b8f84-5ca4-44db-99b6-df96789887ac
+    -
+      vid: news_type
+      tid: '14'
+      langcode: en
+      name: 'In The News'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 359c00af-1ea0-4433-ae25-3a666cf0fccc
+    -
+      vid: news_type
+      tid: '13'
+      langcode: en
+      name: 'Press Release'
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: fb57198e-d996-448e-b5aa-2acc9d286a52
+  person_type:
+    -
+      vid: person_type
+      tid: '16'
+      langcode: en
+      name: Board
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: e3346ba8-650f-410f-bf17-02221b249295
+    -
+      vid: person_type
+      tid: '15'
+      langcode: en
+      name: Staff
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 6968ca40-9e1e-4677-be00-35c177c769f2
+    -
+      vid: person_type
+      tid: '17'
+      langcode: en
+      name: Volunteer
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 44af296e-f49d-488f-a72b-21cdddc2aeed
+  resource_type:
+    -
+      vid: resource_type
+      tid: '18'
+      langcode: en
+      name: Tips
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: 71a07b5d-c9e8-47ff-985c-687d645ba454
+    -
+      vid: resource_type
+      tid: '3'
+      langcode: en
+      name: Tools
+      description__value: null
+      description__format: null
+      weight: '0'
+      parent: '0'
+      uuid: b3f913a3-5c7a-4885-9cc2-b2436990915a
+  tags: {  }
+  theme_colors: {  }
+  title_display_options: {  }
+menus: {  }

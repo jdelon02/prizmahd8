@@ -1,0 +1,10 @@
+uuid: 69edd5d7-f641-4a9c-b84a-498165701f15
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z7NidmQLt0JKv1-h6vzacwa0_AnyhxzKFtHMbxT_RYY
+name: 'News Type'
+vid: news_type
+description: ''
+weight: 0

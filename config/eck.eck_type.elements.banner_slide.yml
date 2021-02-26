@@ -1,0 +1,11 @@
+uuid: 1f93a5f7-bc59-4ffd-8bbb-2d7bdfe2a3d6
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.elements
+_core:
+  default_config_hash: yKuBtlOCTbDyPOlWglApMa3c4-_PLSJm9i25W20vG1k
+type: banner_slide
+name: 'Banner Slide'
+description: ''

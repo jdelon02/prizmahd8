@@ -1,0 +1,23 @@
+uuid: fd3ff285-8261-4a7a-88ab-71f43d7e2a0e
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.callout
+    - field.storage.components.field_body
+  module:
+    - text
+_core:
+  default_config_hash: 2e4lZAynLkrEnxQbNnH5J6o5tSspsnsulkaHd5NkMrg
+id: components.callout.field_body
+field_name: field_body
+entity_type: components
+bundle: callout
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,10 @@
+uuid: 34df090d-fe76-4dc5-bc2e-86d325169c08
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Tf8OWn_cigixLtQ5zja5ACXp6Tth0AWmi2AEUGQ8W-k
+id: footer-menu---resources
+label: 'Footer Menu - Resources'
+description: ''
+locked: false

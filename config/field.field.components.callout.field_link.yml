@@ -1,0 +1,25 @@
+uuid: a1438868-77b4-47a7-9207-8e57c63394ed
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.callout
+    - field.storage.components.field_link
+  module:
+    - link
+_core:
+  default_config_hash: sXpbW9tIW17Qgjot5NT-IHRmRTcyExfA584SFbq8eSc
+id: components.callout.field_link
+field_name: field_link
+entity_type: components
+bundle: callout
+label: Link
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 1
+field_type: link

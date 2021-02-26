@@ -1,0 +1,11 @@
+uuid: e9253d56-7bd9-4216-ac45-6a66fd9e119c
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.components
+_core:
+  default_config_hash: NS_A-S4pRsIIx58wl9pDiacaOI7xFQQoACdsRlTa8gg
+type: header_slideshow
+name: 'Banner Slider'
+description: ''

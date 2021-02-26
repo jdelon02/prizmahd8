@@ -1,0 +1,10 @@
+uuid: 27e6c798-2bbb-44cc-8f97-e11c4cbe33d5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ax4D68OUtNM1RTBfLewudut8_KM0hSpRo8u3PTEkwjM
+name: 'Person Type'
+vid: person_type
+description: ''
+weight: 0

@@ -1,0 +1,12 @@
+uuid: 8776056a-79cd-49e3-a26e-2d1f33427e48
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OwTKVds0t_WEVAMWBK80ytaHvik4iGqxHCy0tTfi_Vo
+id: components
+label: Components
+created: true
+changed: true
+uid: true
+title: true

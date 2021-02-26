@@ -1,0 +1,21 @@
+uuid: 8d85ab6b-2d33-4094-888e-ab673c60e9b0
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.testimonial
+    - field.storage.components.field_ancho
+_core:
+  default_config_hash: wthhQ03w0MVvRwLVpTjAl42OAGZAWV0kLbjEYr6vDvE
+id: components.testimonial.field_ancho
+field_name: field_ancho
+entity_type: components
+bundle: testimonial
+label: 'Anchor ID'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

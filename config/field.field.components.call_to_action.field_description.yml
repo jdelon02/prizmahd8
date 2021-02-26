@@ -1,0 +1,23 @@
+uuid: 678cfff9-bd3e-4b3d-95bb-f485573dae98
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.call_to_action
+    - field.storage.components.field_description
+  module:
+    - text
+_core:
+  default_config_hash: 9uIyg0on8SQvHQL6DVFFGR6SiSpeogdq-oEwcgexIn8
+id: components.call_to_action.field_description
+field_name: field_description
+entity_type: components
+bundle: call_to_action
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

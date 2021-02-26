@@ -1,0 +1,92 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/botdemo.test\/taxonomy\/term\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/theme_colors"
+        },
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/theme_colors\/parent": [
+            null
+        ]
+    },
+    "uuid": [
+        {
+            "value": "e6d6db0a-d88b-4123-893d-43747d171d24"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "theme_colors"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-07-21T17:02:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "Light Gray",
+            "lang": "en"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "_embedded": {
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/theme_colors\/parent": [
+            null
+        ]
+    },
+    "changed": [
+        {
+            "value": "2020-07-21T17:02:39+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "canonical_url": "http:\/\/botdemo.test\/taxonomy\/term\/1",
+                "title": "Light Gray | BackOffice Theme"
+            }
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ]
+}

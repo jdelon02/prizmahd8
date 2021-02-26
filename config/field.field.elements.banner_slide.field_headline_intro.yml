@@ -1,0 +1,23 @@
+uuid: a71299e7-578f-431d-b707-cb73b9162d01
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.elements.banner_slide
+    - field.storage.elements.field_headline_intro
+  module:
+    - text
+_core:
+  default_config_hash: 1_L_I1xPHa1YZuI_GhqrKyHL4Z4jNOwss2C6PSQtx98
+id: elements.banner_slide.field_headline_intro
+field_name: field_headline_intro
+entity_type: elements
+bundle: banner_slide
+label: 'Slide Headline'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/botdemo.test\/dolor-hos-jugis-tum.?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+        },
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "http:\/\/botdemo.test\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            null
+        ]
+    },
+    "uuid": [
+        {
+            "value": "6e0d29d1-624b-4e40-ad19-728d8462e915"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-10-10T09:41:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "acdfcba1-884c-4b96-8000-232f9d10fe74"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            null
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Cui exerci pala probo wisi. Abigo caecus gilvus jus oppeto pneum singularis sit. Ex jus mauris patria vereor. Os pertineo sino valetudo. Eu genitus pala. Abluo adipiscing esca esse haero mauris minim si. At hos premo quia velit. Interdico plaga quis suscipit usitas validus.\n\nAd loquor patria qui sagaciter vereor. Abico autem genitus gravis ibidem melior proprius similis venio. Patria quis tation utrum volutpat. Comis erat illum nimis pagus populus praemitto rusticus ut. Inhibeo neque tincidunt.\n\nConsectetuer elit et feugiat immitto oppeto paulatim premo torqueo zelus. Abigo conventio gravis lobortis nunc saepius typicus venio. Cogo cui facilisis modo pala saepius si suscipit. Abdo camur capto iustum meus natu quae virtus. Dignissim fere haero ideo iriure mauris quidne sino. Aliquam amet appellatio cui enim huic praemitto si torqueo ullamcorper. Abluo amet macto metuo meus vicis.\n\nBlandit comis et metuo ratis sagaciter. Caecus ex importunus patria ratis tamen. Abdo ad at camur iaceo olim oppeto plaga qui. Ea esca gemino iaceo importunus nobis nulla tamen ut vereor.\n\nExerci iriure loquor nutus obruo pala praemitto sit. Abdo abigo enim erat luptatum minim tum vicis zelus. Conventio ea humo sudo vero. Distineo feugiat letalis obruo odio praemitto tincidunt uxor. Blandit immitto nobis sed voco. Aliquip antehabeo dolus pneum qui sagaciter suscipit. Consectetuer esse jus mauris mos nulla quibus quis tation typicus.\n\nAccumsan olim patria pecus. Abbas abico consectetuer defui enim gemino gravis macto nimis ratis. Cui iaceo magna premo proprius refoveo secundum te. Abluo distineo jus. Amet dolor ea quia vindico. In incassum os ulciscor. Abdo sed ullamcorper verto. Acsi aptent facilisis iaceo jugis macto proprius vereor wisi.\n\nAcsi genitus jumentum mos veniam voco. Capto importunus laoreet luptatum obruo patria probo quibus. Aliquam aptent euismod ille jugis modo populus tincidunt. Eu ex praesent refero sit venio. Adipiscing camur damnum fere interdico ratis.\n\nDefui distineo duis eros fere laoreet neque virtus. Eros in metuo paratus scisco. Jumentum tamen typicus. Autem dolore facilisis. Brevitas sed vulpes. Os sit virtus. Abbas abdo quis saluto te velit. Consectetuer cui melior praesent quidem tego usitas voco.\n\nAliquip dolor imputo laoreet occuro qui si suscipit tation. Abbas autem eu genitus natu probo sit tum. Ad dignissim iusto loquor occuro si. Augue consectetuer dolus euismod persto refero saepius. Adipiscing erat ideo lenis oppeto populus si utinam virtus.\n\nCommodo consequat dolor duis quia scisco te. Abdo facilisis ibidem neque sudo wisi. Blandit distineo eligo neque occuro oppeto refoveo turpis utrum vereor. Abico damnum esca nisl nunc occuro refero voco wisi.\n\nElit facilisis quae refoveo verto vindico. Cogo duis jugis melior os qui quia tamen. Aptent importunus interdico proprius saluto valetudo voco. Causa comis iaceo melior nostrud pertineo populus rusticus. Fere gemino gilvus iriure volutpat. Antehabeo autem quibus similis singularis vero. Humo lenis nostrud similis sudo turpis. Abico ad immitto lenis modo paulatim scisco suscipere utrum. Autem caecus damnum fere hos minim modo utrum.\n\nDefui refoveo ullamcorper virtus. Autem eu illum importunus obruo pneum refoveo scisco ut vel. Autem camur sino. Abigo tum turpis. Abigo veniam vereor. Caecus cui iaceo mos. Comis oppeto probo. Pertineo roto vulputate. Brevitas gravis imputo sit torqueo. Abico consectetuer dolor ex lobortis tamen veniam virtus.\n\n"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "canonical_url": "http:\/\/botdemo.test\/dolor-hos-jugis-tum.",
+                "title": "| BackOffice Theme"
+            }
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/dolor-hos-jugis-tum.",
+            "pid": 22,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ]
+}

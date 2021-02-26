@@ -1,0 +1,12 @@
+uuid: babbd12f-ef99-4cdd-9e2e-0092b04081d9
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+_core:
+  default_config_hash: S_GajoKkOH1W0Rn4lPY4_4rZdQykrqDezxuHFiuiBZs
+id: media.widescreen_16_9
+label: 'Widescreen (16:9)'
+targetEntityType: media
+cache: true

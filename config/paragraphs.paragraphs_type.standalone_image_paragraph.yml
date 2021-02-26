@@ -1,0 +1,12 @@
+uuid: b631c6b0-f6e2-4649-806f-2cd198da02ac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gqD0N6P0QVe-T4cv65NiDPnjx-Ds5gUsvUJp5fDQRyg
+id: standalone_image_paragraph
+label: 'Image or Video'
+icon_uuid: null
+icon_default: null
+description: 'Allows for creating media (image and remote video) paragraphs that can be rendered in different ways.'
+behavior_plugins: {  }

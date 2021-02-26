@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.call_to_action
+    - field.storage.components.field_ancho
+id: components.call_to_action.field_ancho
+field_name: field_ancho
+entity_type: components
+bundle: call_to_action
+label: 'Anchor ID'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

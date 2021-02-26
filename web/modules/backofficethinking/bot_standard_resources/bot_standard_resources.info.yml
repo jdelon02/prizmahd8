@@ -1,0 +1,25 @@
+name: Resources
+description: 'Resources CT'
+type: module
+core_version_requirement: '^8.9 || ^9'
+dependencies:
+  - ds
+  - entity_reference_revisions
+  - field
+  - field_layout
+  - file
+  - layout_discovery
+  - link
+  - media
+  - media_library
+  - menu_ui
+  - metatag
+  - node
+  - paragraphs
+  - path
+  - smart_trim
+  - taxonomy
+  - text
+  - user
+version: 8.x-1.0
+package: 'BackOffice Thinking Standard'

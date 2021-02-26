@@ -1,0 +1,21 @@
+uuid: 42b79a27-9d4e-4f05-8d60-55ee264546aa
+langcode: en
+status: true
+dependencies:
+  module:
+    - eck
+    - text
+_core:
+  default_config_hash: Ju3AUnOkSP2pdg4tWz40ZeeE59a2OCtp_mg-H2UOBsQ
+id: components.field_description
+field_name: field_description
+entity_type: components
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

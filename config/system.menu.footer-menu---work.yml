@@ -1,0 +1,10 @@
+uuid: b3e869d7-79d9-4f3e-891f-488c29890844
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XVckV0yGej3ftvH2S6aTQQlP6xLS0fCOw14sQw9OsVY
+id: footer-menu---work
+label: 'Footer Menu - Work'
+description: ''
+locked: false

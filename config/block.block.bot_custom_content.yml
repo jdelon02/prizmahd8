@@ -1,0 +1,22 @@
+uuid: 505237ac-dc2e-454a-88c9-a1491bd71c72
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bot_custom
+_core:
+  default_config_hash: KLzRT4HTp9DOnoDQn2PfbpFivzEHEbPAUNLbne-Hwg0
+id: bot_custom_content
+theme: bot_custom
+region: content
+weight: -9
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

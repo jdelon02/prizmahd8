@@ -1,0 +1,30 @@
+uuid: 9d666ee6-75e1-4236-99b4-b81062d0d0fe
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.plain
+  module:
+    - ckeditor
+_core:
+  default_config_hash: qO6VS56ntWMqtpSoGgX79_pzge-hw-xrN0-VVOvSM0E
+format: plain
+editor: ckeditor
+settings:
+  toolbar:
+    rows: {  }
+  plugins:
+    language:
+      language_list: un
+    stylescombo:
+      styles: ''
+    tokenbrowser:
+      token_types: {  }
+image_upload:
+  status: false
+  scheme: public
+  directory: inline-images
+  max_size: ''
+  max_dimensions:
+    width: null
+    height: null

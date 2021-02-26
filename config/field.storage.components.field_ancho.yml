@@ -1,0 +1,23 @@
+uuid: 190fe983-271c-42c5-9cff-5b22ef780022
+langcode: en
+status: true
+dependencies:
+  module:
+    - eck
+_core:
+  default_config_hash: kT6ldgtqln1UAnORexGSN7n70xpC3KYaOOxbkGMA25A
+id: components.field_ancho
+field_name: field_ancho
+entity_type: components
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

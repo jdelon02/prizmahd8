@@ -1,0 +1,12 @@
+uuid: 87de24cf-a736-49cf-88b9-390792fce8d2
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: '-qVRG_a8R3_HAb2rIfVNInF7MXLW8cDwwo97cqcj5l8'
+id: node.latest_news
+label: 'Latest News'
+targetEntityType: node
+cache: true

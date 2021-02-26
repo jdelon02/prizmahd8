@@ -1,0 +1,21 @@
+uuid: 561486b6-6449-417c-890a-dc3c8992b9bd
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - view_mode_selector
+_core:
+  default_config_hash: eYj9X5jVVZdHaQ6sLbXepYpx4YHT9JCWJdCBtqf3nSI
+id: node.field_page_options
+field_name: field_page_options
+entity_type: node
+type: view_mode_selector
+settings: {  }
+module: view_mode_selector
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

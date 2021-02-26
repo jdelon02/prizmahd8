@@ -1,0 +1,19 @@
+uuid: e3d585b7-30fe-4eb1-8905-18470e9bf259
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+_core:
+  default_config_hash: Vr34bGR1ae2-qZ67LVQZMAjSJHh3KDlfGHmhDGdA9kk
+name: fp_landscape_1920x1440
+label: 'FP Landscape (1920x1440)'
+effects:
+  69b35530-0679-477b-9399-421f0914f2bc:
+    uuid: 69b35530-0679-477b-9399-421f0914f2bc
+    id: focal_point_scale_and_crop
+    weight: 2
+    data:
+      width: 1920
+      height: 1440
+      crop_type: focal_point

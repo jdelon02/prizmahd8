@@ -1,13 +1,13 @@
 server:
   version: '2.0'
   protocol: https
-  hostname: 'https://dev.2020.prizmah.org/'
+  hostname: ''
   port: 443
-  path: /cas
+  path: /
   verify: 0
   cert: ''
 gateway:
-  check_frequency: -1
+  check_frequency: -2
   paths:
     id: request_path
     pages: ''
@@ -21,7 +21,7 @@ forced_login:
 logout:
   logout_destination: ''
   enable_single_logout: false
-  cas_logout: true
+  cas_logout: false
   single_logout_session_lifetime: 25
 proxy:
   initialize: false
@@ -30,7 +30,7 @@ proxy:
 user_accounts:
   prevent_normal_login: true
   auto_register: false
-  email_assignment_strategy: 1
+  email_assignment_strategy: 0
   email_hostname: ''
   email_attribute: ''
   auto_assigned_roles: {  }
@@ -47,9 +47,9 @@ error_handling:
   message_prevent_normal_login: 'This account must log in using <a href="[cas:login-url]">CAS</a>.'
   message_restrict_password_management: 'The requested account is associated with CAS and its password cannot be managed from this website.'
 advanced:
-  debug_log: true
+  debug_log: false
   connection_timeout: 10
-login_link_enabled: true
+login_link_enabled: false
 login_link_label: 'CAS Login'
 login_success_message: ''
 _core:

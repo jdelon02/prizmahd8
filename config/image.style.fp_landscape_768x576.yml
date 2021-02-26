@@ -1,0 +1,19 @@
+uuid: 849e5b94-3e2c-458a-a34f-62c0ad82f9bd
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+_core:
+  default_config_hash: u5CGsCktmq4VJlq4oP10y5ZGg8mtG56ty1pT3X5Wtps
+name: fp_landscape_768x576
+label: 'FP Landscape (768x576)'
+effects:
+  717f1e31-c2cd-4a88-9686-6787a2acee7a:
+    uuid: 717f1e31-c2cd-4a88-9686-6787a2acee7a
+    id: focal_point_scale_and_crop
+    weight: 2
+    data:
+      width: 768
+      height: 576
+      crop_type: focal_point

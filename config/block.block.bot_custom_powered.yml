@@ -1,0 +1,22 @@
+uuid: b8a38dfb-dcd9-485b-9c92-b6659af1ca21
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - bot_custom
+_core:
+  default_config_hash: L1TBBsVOOKM7PtVl1oC1bH7cQtX95XpOKjVqROP9S_g
+id: bot_custom_powered
+theme: bot_custom
+region: footer_abs_bottom
+weight: -5
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

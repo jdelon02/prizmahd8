@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/botdemo.test\/gemino-gravis-nimis-nobis-pagus-pneum-probo-quibus-ratis-wisi.?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+        },
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "http:\/\/botdemo.test\/user\/0?_format=hal_json"
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "href": "http:\/\/botdemo.test\/amet-antehabeo-dolor-ea-erat-molior-oppeto-premo-saluto-vero.?_format=hal_json"
+            }
+        ]
+    },
+    "uuid": [
+        {
+            "value": "dec8d00c-6d9d-4cb0-8106-29505a266b08"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "zxx",
+            "lang": "zxx"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-03-28T19:58:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/user\/0?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e10b71da-4038-4ac7-9de6-526dd6b10e7a"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/botdemo.test\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/botdemo.test\/amet-antehabeo-dolor-ea-erat-molior-oppeto-premo-saluto-vero.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/botdemo.test\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b4ca4079-9855-42c4-9e0c-0e7c80726498"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Bene consequat sit turpis wisi. Blandit brevitas nostrud vulpes. Adipiscing comis diam iusto iustum quidne vicis. Paulatim roto te. Abdo gilvus jumentum tation. Augue iusto paratus proprius tamen ulciscor valetudo.\n\nSudo tincidunt turpis. Et jugis nibh pecus populus qui sed vereor volutpat. Augue exputo roto tego. Damnum elit esca jumentum lobortis te validus vulputate. Amet at ex ibidem illum jus lenis letalis plaga veniam. Consequat gravis neque obruo persto quidem saluto usitas. Dolor hos importunus loquor nunc volutpat. Abico appellatio iaceo. Caecus damnum facilisi incassum iriure occuro quidne ratis sino ut.\n\nBlandit facilisi ille in metuo nibh sino suscipit wisi. Appellatio cogo feugiat ideo iriure lucidus probo quadrum si sudo. Ille illum quia. Aliquip at commoveo erat mauris nunc occuro roto vulpes.\n\nEros gravis huic nobis tincidunt ullamcorper. Brevitas commoveo pala quidne. Hos interdico persto quidne refero zelus. Eum occuro turpis. Abdo bene brevitas decet huic qui quibus valetudo voco ymo. Abigo caecus capto esse feugiat haero natu nimis roto. Dignissim eu loquor pagus quia ullamcorper veniam ymo.\n\nErat meus probo tamen verto. Antehabeo modo nulla persto praesent quia si vicis. Neque nibh persto qui. Consequat ex gilvus luctus magna nibh pertineo ratis vulputate. Esse iriure sino tamen venio.\n\nCaecus dolus ea jumentum nobis quadrum ut velit. Abdo commoveo eligo elit immitto molior plaga voco. Adipiscing cui enim exputo incassum nibh sudo torqueo.\n\nIriure jus torqueo. Eum iaceo meus pagus verto. Abdo esse et ideo minim turpis vero verto ymo zelus. Cui mauris neo probo tum utrum vel. Camur illum neque praemitto. Abdo acsi dolus jus premo ut. Accumsan at causa in metuo secundum sed validus vel.\n\nAccumsan causa consequat decet haero in lucidus nunc sit suscipere. Abdo antehabeo distineo euismod feugiat laoreet modo pagus tation ullamcorper. Brevitas ex immitto in luctus oppeto qui te utrum velit. Facilisis immitto mauris refero valde. Comis diam eu exerci hendrerit iriure lucidus pecus sit valetudo.\n\nAbluo duis ibidem magna refero. Aptent jugis sagaciter. Distineo sino vereor. Laoreet uxor validus. Meus natu nunc persto tum virtus. Augue molior nulla. Capto lobortis lucidus melior molior paratus pneum torqueo vindico.\n\nEum hos nobis praemitto. Duis enim gilvus ibidem molior praesent quidem typicus. Comis erat os ratis uxor. Abdo augue duis esca huic oppeto ut.\n\nAd appellatio commoveo eligo erat gravis nutus voco vulpes. Acsi ea eum humo ibidem interdico refero scisco. Comis damnum esca illum pala proprius secundum ut velit zelus. Eu patria sed. Autem commodo iaceo ibidem quadrum quae. Acsi aliquip erat nulla sino utrum. Fere feugiat laoreet loquor patria pertineo ulciscor. Abbas adipiscing gilvus gravis lenis ullamcorper venio.\n\nIusto sit ulciscor. Ex facilisis gravis iriure os pala pecus praemitto vicis volutpat. Decet magna patria. Eros ex genitus paratus singularis tincidunt torqueo virtus vulpes. Capto commoveo et melior nunc quae vero wisi. Conventio humo luctus similis valde. At euismod iaceo modo oppeto quibus tation zelus. Aptent nunc pagus. Jus loquor minim nibh premo.\n\n"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "canonical_url": "http:\/\/botdemo.test\/gemino-gravis-nimis-nobis-pagus-pneum-probo-quibus-ratis-wisi.",
+                "title": "| BackOffice Theme"
+            }
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/gemino-gravis-nimis-nobis-pagus-pneum-probo-quibus-ratis-wisi.",
+            "pid": 25,
+            "langcode": "zxx",
+            "lang": "zxx"
+        }
+    ]
+}

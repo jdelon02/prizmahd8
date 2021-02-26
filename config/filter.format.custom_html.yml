@@ -1,0 +1,19 @@
+uuid: 4a8caae8-e182-44c8-8c1b-7531cd9bed10
+langcode: en
+status: true
+dependencies:
+  module:
+    - token_filter
+_core:
+  default_config_hash: DHRkpMoVaE79moYuteEE-7bdYWt-TRgG15K7W99qmKY
+name: 'Custom HTML'
+format: custom_html
+weight: 0
+filters:
+  token_filter:
+    id: token_filter
+    provider: token_filter
+    status: false
+    weight: 0
+    settings:
+      replace_empty: '0'

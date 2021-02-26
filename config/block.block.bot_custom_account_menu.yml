@@ -1,0 +1,27 @@
+uuid: 5704207f-dda2-4b6c-a7f9-884ad5c33d03
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - bot_custom
+_core:
+  default_config_hash: sP5O_vPmgzTXv9ifgSUwjU3vjISdxVh8rlfpLBjaf2g
+id: bot_custom_account_menu
+theme: bot_custom
+region: navigation_collapsible
+weight: -7
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,25 @@
+uuid: e94f302f-4b02-44b2-93f6-812890d59c22
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.elements.banner_slide
+    - field.storage.elements.field_call_to_action
+  module:
+    - link
+_core:
+  default_config_hash: zsqOQiqZ3oPohgPDzZjRW26yH8td2wtvAxUcm8WV8xk
+id: elements.banner_slide.field_call_to_action
+field_name: field_call_to_action
+entity_type: elements
+bundle: banner_slide
+label: 'Call to Action'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 1
+field_type: link

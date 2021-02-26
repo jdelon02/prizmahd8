@@ -1,0 +1,30 @@
+uuid: fe71763a-7d3e-455e-81ea-54fdf2ad48a0
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_type.components.call_to_action
+    - field.storage.components.field_image
+    - media.type.image
+_core:
+  default_config_hash: 9UkyqwX55NOWH1mHP-hx7Y64MO3KsQvifR9XxdEq5w8
+id: components.call_to_action.field_image
+field_name: field_image
+entity_type: components
+bundle: call_to_action
+label: Image
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      image: image
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

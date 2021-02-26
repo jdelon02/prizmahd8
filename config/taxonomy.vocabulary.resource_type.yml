@@ -1,0 +1,10 @@
+uuid: 2212f7c0-a7db-4eb8-b7fe-3f162ced4599
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Y-Clm_kjIZGr0D3Y9TCtrKpcxjCuUPMW4DZvqFwoVYM
+name: 'Resource Type'
+vid: resource_type
+description: ''
+weight: 0

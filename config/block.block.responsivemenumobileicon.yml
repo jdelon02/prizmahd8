@@ -1,0 +1,33 @@
+uuid: a564b287-0cd5-4c58-915a-44d36c24858a
+langcode: en
+status: true
+dependencies:
+  module:
+    - context
+    - responsive_menu
+  theme:
+    - bot_custom
+_core:
+  default_config_hash: H9q6P5QCzsxnCojRPUXlpdnE_DOIOxaQUH91q1KYuX8
+id: responsivemenumobileicon
+theme: bot_custom
+region: navigation
+weight: -9
+provider: null
+plugin: responsive_menu_toggle
+settings:
+  id: responsive_menu_toggle
+  label: 'Responsive menu mobile icon'
+  provider: responsive_menu
+  label_display: '0'
+visibility:
+  view_inclusion:
+    id: view_inclusion
+    negate: null
+    view_inclusion: {  }
+    context_mapping: {  }
+  request_path_exclusion:
+    id: request_path_exclusion
+    pages: ''
+    negate: null
+    context_mapping: {  }
